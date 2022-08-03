@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Emily             | 2 	        |
+| Chloe             | 2 	        |
